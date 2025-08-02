@@ -26,7 +26,7 @@ a {
 }
 .header_menu nav{
     display: flex;
-    justify-content:space-between;
+    gap:40px;
 }
 .header_menu nav a{
     font-weight: 500;
