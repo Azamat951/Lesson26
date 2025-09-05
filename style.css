@@ -307,3 +307,11 @@ hr{
     background-color: rgba(143, 149, 165, 1);
     border-radius: 50%;
 }
+.just {
+    transition: 0.6s;
+}
+.just:hover {
+    background-color: trasnparent;
+    border: 3px solid black;
+    color: black;
+}
